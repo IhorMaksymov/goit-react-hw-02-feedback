@@ -22,15 +22,3 @@ export const Btn = styled.button`
     box-shadow: 0 0 5px 2px ${p => p.theme.colors.btnColor} inset;
 }
 `;
-
-// export const Wrapp = styled.div`
-//     display: flex;
-//     flex-direction: column;
-//     width: 300px; 
-//     padding: ${p => p.theme.space[4]}px;
-// `;
-
-// export const Title = styled.h2`
-//  text-align: center;
-//  margin-bottom: ${p => p.theme.space[4]}px;
-// `;
